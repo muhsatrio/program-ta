@@ -1,0 +1,7 @@
+matplotlib
+tabulate
+pandas
+pyshp
+seaborn
+jupyter
+jupyter_contrib_nbextensions
